@@ -243,5 +243,6 @@ app_license = "mit"
 # }
 fixtures = [
   { "dt":"DocType","filters":[["name","=","Cars"]]}
+  "Cars"
 ]
 
